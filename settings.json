@@ -1,0 +1,11 @@
+{
+  "name"           : "5e PHB",
+  "renderer"       : "V4",
+  "baseTheme"      : false,
+  "baseSnippets"   : false,
+  "licenseType"    : "OGL 1.0a",
+  "description"    : "This is our version of the 5e PHB Styles.",
+  "commonTags"     : ["OGL", "5e", "PHB"],
+  "homeRepository" : "git@github.com:dbolack-ab/hbtheme-5ePHB.git",
+  "credits"        : ["A", "list","of", "people"]
+}
