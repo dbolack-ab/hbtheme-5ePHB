@@ -1,6 +1,6 @@
 {
   "name"           : "5e PHB",
-  "renderer"       : "V3",
+  "renderer"       : "V4",
   "baseTheme"      : false,
   "baseSnippets"   : false,
   "licenseType"    : "OGL 1.0a",
